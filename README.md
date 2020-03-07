@@ -80,3 +80,5 @@ http://www.formaestudio.com/rijndaelinspector/archivos/rijndaelanimation.html
 https://github.com/infoslack/awesome-web-hacking
 ### AWS Security
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+### InfoSec Reference that doesn't suck
+https://github.com/rmusser01/Infosec_Reference
