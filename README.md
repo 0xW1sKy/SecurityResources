@@ -84,3 +84,7 @@ https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 https://github.com/rmusser01/Infosec_Reference
 ### Threat Intelligence Resources
 https://github.com/hslatman/awesome-threat-intelligence
+### Public Data Sets
+https://github.com/awesomedata/awesome-public-datasets
+### Interview Questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
