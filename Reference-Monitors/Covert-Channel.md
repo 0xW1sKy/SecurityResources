@@ -1,0 +1,1 @@
+Anything that circumvents a [reference monitor](/Reference-Monitors).
